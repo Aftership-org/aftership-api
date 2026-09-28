@@ -1,0 +1,1 @@
+-- Add development-only seed data here. Never include production data or secrets.
